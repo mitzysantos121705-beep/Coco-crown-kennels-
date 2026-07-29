@@ -1,5 +1,5 @@
 
-const OWNER_EMAIL = "YOUR_EMAIL_HERE";
+const OWNER_EMAIL = "cococrownkennels@gmail.com";
 
 const menuBtn = document.querySelector('.menu-btn');
 const navLinks = document.querySelector('.nav-links');
